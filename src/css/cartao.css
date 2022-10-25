@@ -1,3 +1,10 @@
 .cartao-pokemon {
+    background-color: aqua;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 10px;
+}
+
+.cartao-pokemon .topo-cartao {
+    background-color: red;
+    padding: 30px 40px 0px;
 }
