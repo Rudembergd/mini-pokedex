@@ -7,7 +7,7 @@
 ## Descrição
 Uma pequena lista de cartões pokémon utilizando recursos básicos de desenvolvimento front-end.
 
-O projeto foi adicionado ao curso DEVQUEST após a mapa-devweek de julho de 2022, uma semana de imersão em conceitos básicos do front-end para quê, tanto devs experiêntes (que quisessem participar), quanto devs iniciantes tivessem um projeto prático para contribuir com o seu github.
+O projeto foi adicionado ao curso DEVQUEST após a mapa-devweek de julho de 2022, uma semana de imersão em conceitos básicos do front-end para que, tanto devs experiêntes (que quisessem participar), quanto devs iniciantes tivessem um projeto prático para contribuir com o seu github.
 
 ## Tecnologias utilizadas
 
